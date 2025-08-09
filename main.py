@@ -1,6 +1,6 @@
 import qrcode
 
-# === Konfiguration ===
+# ==== Konfiguration ====
 url = ""  # Deine URL hier eintragen
 output_file = "qrcode.png"       # Name der Ausgabedatei
 
