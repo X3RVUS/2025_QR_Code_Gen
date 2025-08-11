@@ -20,3 +20,5 @@ img.save(output_file)
 
 print(f"QR-Code gespeichert unter: {output_file}")
 print("Du kannst den QR-Code scannen, um die URL zu öffnen.")
+# Hinweis: Stelle sicher, dass die Bibliothek 'qrcode' installiert ist.
+# Installiere sie mit: pip install qrcode[pil]
